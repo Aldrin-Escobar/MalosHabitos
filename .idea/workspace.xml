@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8680c320-5c90-45ce-9ff1-fc364330590e" name="Changes" comment="Refactorizacion ej01" />
+    <list default="true" id="8680c320-5c90-45ce-9ff1-fc364330590e" name="Changes" comment="se elemino el main" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,12 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725923831755</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="se elemino el main">
+      <option name="closed" value="true" />
+      <created>1725924044143</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725924044143</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Linea base del proyecto inicial" />
     <MESSAGE value="Refactorizacion ej01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactorizacion ej01" />
+    <MESSAGE value="se elemino el main" />
+    <option name="LAST_COMMIT_MESSAGE" value="se elemino el main" />
   </component>
 </project>
