@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8680c320-5c90-45ce-9ff1-fc364330590e" name="Changes" comment="se elemino el main" />
+    <list default="true" id="8680c320-5c90-45ce-9ff1-fc364330590e" name="Changes" comment="Mejora del codigo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +32,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Ejemploo1.executor": "Run",
+    "Python.Ejemploo2.executor": "Run",
+    "Python.Ejemploo3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
@@ -85,13 +87,22 @@
       <option name="project" value="LOCAL" />
       <updated>1725924044143</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Mejora del codigo">
+      <option name="closed" value="true" />
+      <created>1725924617150</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725924617150</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Linea base del proyecto inicial" />
     <MESSAGE value="Refactorizacion ej01" />
     <MESSAGE value="se elemino el main" />
-    <option name="LAST_COMMIT_MESSAGE" value="se elemino el main" />
+    <MESSAGE value="Mejora del codigo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mejora del codigo" />
   </component>
 </project>
